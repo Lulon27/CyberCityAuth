@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Keys used for JWT
+id_rsa.pem
+id_rsa_pub.pem
